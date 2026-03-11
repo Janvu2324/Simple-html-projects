@@ -1,0 +1,21 @@
+.Box-flex-rps img:hover{
+    
+    box-shadow: 0px 10px 50px rgb(78, 22, 131);
+}
+
+.Container{
+    border: 3px solid rgb(245, 20, 20);
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.Box-flex-rps{
+   display: flex;
+   border: 1px solid rgb(36, 230, 18);
+   flex-wrap: wrap;
+   flex-direction: row;
+
+   padding: 1px;
+}
