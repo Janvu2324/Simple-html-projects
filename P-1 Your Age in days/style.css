@@ -1,0 +1,69 @@
+.Container{
+   border: 2px solid black;
+   width: 75%;
+   margin: 0 auto;
+   text-align: center;
+}
+
+
+.chall{
+   font-family:sans-serif;
+   color: rgb(206, 7, 7);
+}
+
+
+
+.Box-flex{
+   display: flex;
+   border: 2px solid black;
+   padding: 20px;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   flex-direction: row;
+}
+
+
+
+.Box-flex div{
+   display: flex ;
+   padding: 1px;
+   border: 2px solid black;
+   color: rgb(14, 212, 57);
+
+}
+
+
+
+.Btn1{
+   background-color: steelblue;
+   border:orange;
+   padding: 15px 32px;
+   font-size: 25px;
+   margin: 4px 2px;
+   font-style: inherit;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Btn2:hover{
+   color: white;
+   background-color: rgb(48, 138, 13);
+}
+
+
+.Btn2{
+    background-color:mediumturquoise;
+    border:orange;
+    padding: 15px 32px;
+    font-size: 25px;
+    margin: 4px 2px;
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+
+ .Btn1:hover{
+   color: white;
+   background-color:tomato;
+}
+
+
